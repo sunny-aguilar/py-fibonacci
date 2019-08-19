@@ -9,3 +9,5 @@ def fib(n):
 
 #fib(1000)
 
+if 4 > 3:
+    print('first executed')
