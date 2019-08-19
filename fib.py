@@ -11,7 +11,7 @@ def fib(n):
 
 if 2 > 3:
     print('first executed')
-elif 2== 3:
+elif 2 == 2:
     print('second executed')
 else:
     print('third executed')
