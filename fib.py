@@ -9,7 +9,7 @@ def fib(n):
 
 #fib(1000)
 
-if 4 > 3:
+if 2 > 3:
     print('first executed')
 else:
     print('second executed')
