@@ -9,5 +9,3 @@ def fib(n):
 
 #fib(1000)
 
-if 8 > 3:
-    pass
