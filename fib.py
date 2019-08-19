@@ -7,4 +7,4 @@ def fib(n):
     print()
 
 
-fib(1000)
+#fib(1000)
