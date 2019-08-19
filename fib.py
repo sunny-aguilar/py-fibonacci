@@ -14,4 +14,4 @@ if 2 > 3:
 elif 2== 3:
     print('second executed')
 else:
-    print('second executed')
+    print('third executed')
