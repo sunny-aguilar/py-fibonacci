@@ -8,3 +8,7 @@ def fib(n):
 
 
 #fib(1000)
+
+ask = "Enter your name: "
+name = print(ask)
+print("hello, ", name)
