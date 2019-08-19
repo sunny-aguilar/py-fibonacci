@@ -10,3 +10,6 @@ def fib(n):
 #fib(1000)
 
 x = 100
+
+if x > 0 and x < 200:
+    print('statement executed')
