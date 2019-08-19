@@ -9,5 +9,7 @@ def fib(n):
 
 #fib(1000)
 
-hours = input('Enter the hours: ')
+hours = int(input('Enter Hours: '))
+rate = int(input('Enter Rate: '))
 
+print('Pay: ', hours*rate)
