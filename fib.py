@@ -9,9 +9,4 @@ def fib(n):
 
 #fib(1000)
 
-if 2 > 3:
-    print('first executed')
-elif 2 == 2:
-    print('second executed')
-else:
-    print('third executed')
+x = 100
