@@ -11,5 +11,5 @@ def fib(n):
 
 #(36°C × 9/5) + 32 = 96.8°F
 celcius = input('Enter celcius temp: ')
-temp = (celcius * (9.0/5.0)) + 32
+temp = (int(celcius) * (9.0/5.0)) + 32
 print("Faranheit temp: ", temp)
