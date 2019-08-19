@@ -10,5 +10,5 @@ def fib(n):
 #fib(1000)
 
 ask = "Enter your name: "
-name = print(ask)
+name = input(ask)
 print("hello, ", name)
