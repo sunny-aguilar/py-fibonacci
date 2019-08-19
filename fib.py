@@ -9,4 +9,5 @@ def fib(n):
 
 #fib(1000)
 
-
+if 8 > 3:
+    print('8 is less than 3')
