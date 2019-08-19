@@ -9,6 +9,5 @@ def fib(n):
 
 #fib(1000)
 
-ask = "Enter your name: "
-name = input(ask)
-print("Hello, ", name)
+hours = input('Enter the hours: ')
+
