@@ -9,7 +9,4 @@ def fib(n):
 
 #fib(1000)
 
-#(36°C × 9/5) + 32 = 96.8°F
-celcius = input('Enter celcius temp: ')
-temp = (int(celcius) * (9.0/5.0)) + 32
-print("Faranheit temp: ", temp)
+
