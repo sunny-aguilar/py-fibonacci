@@ -11,3 +11,5 @@ def fib(n):
 
 if 4 > 3:
     print('first executed')
+else:
+    print('second executed')
